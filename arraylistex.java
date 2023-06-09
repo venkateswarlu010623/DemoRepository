@@ -8,6 +8,7 @@ import java.util.List;
 	Integer id;
 	String name;
 	String author;
+	int c;
 	
 	public books(Integer id, String name, String author) {
 		this.id = id;
